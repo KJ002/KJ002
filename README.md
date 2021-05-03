@@ -7,7 +7,7 @@ Hey! I'm KJ and i've been sleeping and programming a lot recently, I tend to do 
 |Project|Description|Reference|
 --- | --- | --- |
 |PyPlotter|A library that plots a functions on graphs.|https://github.com/KJ002/PyPlotter/|
-|Discord RPC|A GUI that allows you to alter your Discord Presence|https://github.com/DiscordRPC/| 
+|Discord RPC|A GUI that allows you to alter your Discord Presence|https://github.com/KJ002/DiscordRPC/| 
 |Discord Arena|A discord bot that has fun RPG functionality|https://github.com/GDWR/DiscordArena/|
 
 -----
