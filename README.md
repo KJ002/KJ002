@@ -1,16 +1,18 @@
-### Hi there 👋
+Hey! I'm KJ and i've been sleeping and programming a lot recently, I tend to do a lot of this. I am currently in school and program in my free time. I often write Python or C++ although I like to change it up sometimes and try out new things.
 
-<!--
-**KJ002/KJ002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+----
 
-Here are some ideas to get you started:
+### Current Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+|Project|Description|Reference|
+--- | --- | --- |
+|PyPlotter|A library that plots a functions on graphs.|https://github.com/KJ002/PyPlotter|
+|Discord Arena|A discord bot that has fun RPG functionality|https://github.com/GDWR/DiscordArena|
+
+-----
+
+### Future Projects
+
+|Project|Description|Language|
+--- | --- | --- |
+Muon|A command line tool that provides info on packages|C++|
