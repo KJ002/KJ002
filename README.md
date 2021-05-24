@@ -1,4 +1,4 @@
-Hey! I'm KJ and i've been sleeping and programming a lot recently, I tend to do a lot of this. I am currently in school and program in my free time. I often write Python or C++ although I like to change it up sometimes and try out new things.
+Hey! I'm James and I am currently in school, program in my free time. I often write Python or C++ although I like to change it up sometimes and try out new things.
 
 ----
 
