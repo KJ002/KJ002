@@ -17,5 +17,4 @@ Hey! I'm James and I am currently in school, program in my free time. I often wr
 
 |Project|Description|Language|
 --- | --- | --- |
-Muon|A command line tool that provides info on packages|C++|
-Largest Files|A Windows/UNIX tool to scan for folders that contain the most ammount of shit.|C++|
+Muon|A command line tool that provides info on packages|Rust|
