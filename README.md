@@ -17,4 +17,4 @@ Hey! I'm James and I am currently in school, program in my free time. I often wr
 
 |Project|Description|Language|
 --- | --- | --- |
-Muon|A command line tool that provides info on packages|Rust|
+Muon|A command line tool that provides info on packages in the AUR|Rust|
