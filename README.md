@@ -1,4 +1,4 @@
-Hey! I'm James, a hobbyist programmer. I often write Python or C++ although I am checking out [Nim](https://nim-lang.org/) and [Dart](https://dart.dev/).
+Hey! I'm James, a hobbyist programmer. I often write [Python](https://www.python.org/) or [C++](https://gcc.gnu.org/) although I am checking out [Nim](https://nim-lang.org/) and [Dart](https://dart.dev/).
 
 ----
 
@@ -17,4 +17,4 @@ Hey! I'm James, a hobbyist programmer. I often write Python or C++ although I am
 
 |Project|Description|Language|
 --- | --- | --- |
-Muon|A command line tool that provides info on packages in the AUR|Rust|
+Muon|A command line tool that provides info on packages in the AUR|Rust/Nim|
