@@ -1,4 +1,4 @@
-Hey! I'm James and I am currently in school, program in my free time. I often write Python or C++ although I like to change it up sometimes and try out new things.
+Hey! I'm James, a hobbyist programmer. I often write Python or C++ although I am checking out [Nim](https://nim-lang.org/) and [Dart](https://dart.dev/).
 
 ----
 
