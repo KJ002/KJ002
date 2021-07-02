@@ -10,6 +10,7 @@ Hey! I'm James, a hobbyist programmer. I often write [Python](https://www.python
 |Discord RPC|A GUI that allows you to alter your Discord Presence|https://github.com/KJ002/DiscordRPC/| 
 |Discord Arena|A discord bot that has fun RPG functionality|https://github.com/GDWR/DiscordArena/|
 |MathParser|Parse string in c++, used in (https://github.com/KJ002/PyPlotter/)|https://github.com/KJ002/MathParser/|
+Muon|A command line tool that provides info on packages in the AUR|https://github.com/KJ002/Muon/|
 
 -----
 
@@ -17,4 +18,4 @@ Hey! I'm James, a hobbyist programmer. I often write [Python](https://www.python
 
 |Project|Description|Language|
 --- | --- | --- |
-Muon|A command line tool that provides info on packages in the AUR|Rust/Nim|
+
