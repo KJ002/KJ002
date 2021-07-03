@@ -18,4 +18,4 @@ Muon|A command line tool that provides info on packages in the AUR|https://githu
 
 |Project|Description|Language|
 --- | --- | --- |
-
+|N/A|N/A|N/A|
